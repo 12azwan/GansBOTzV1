@@ -1,18 +1,18 @@
 let fs = require('fs')        
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6289509960601'],
-  ['6289509960601', 'Deffri Gans', true]  
+  ['6288212514602'],
+  ['6288212514602'],
+  ['6288212514602', 'Deffri Gans', true]  
   
 ] 
-global.ownername = [['𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬']]
-global.namabot = [['𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛']]
+global.ownername = [['azwan 𝐆𝐚𝐧𝐬']]
+global.namabot = [['azwan 𝑩𝑶𝑻𝒛']]
 global.ownerinsta = [['@b4c00t.dtz']]
 global.instalu = [['instagram.com/b4c00t.dtz']]
 global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA']]
 global.mods = [] 
-global.prems = ['6289509960601'] 
+global.prems = ['6288212514602'] 
 
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
